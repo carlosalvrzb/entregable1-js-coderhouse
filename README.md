@@ -1,1 +1,1 @@
-# entregable1-js-coderhouse
+# entregables-js-coderhouse
